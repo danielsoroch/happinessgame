@@ -4,7 +4,7 @@
  * Images in src/assets must be imported so Vite can serve them.
  */
 import saladImg from "../assets/images/salad.jpeg";
-import dogImg from "../assets/images/dog.jpeg";
+import dogImg from "../assets/images/Dog.jpeg";
 
 const captchaRounds = [
   {
